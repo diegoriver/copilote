@@ -7,8 +7,8 @@ import pandas as pd
 import numpy as np
 import ast
 
-# openai.api_key = "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"
-openai.api_key = "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"
+# openai.api_key = "sk-"
+openai.api_key = "sk-"
 
 
 def consultar(pregunta, df_embedding, Num_respuesta):
