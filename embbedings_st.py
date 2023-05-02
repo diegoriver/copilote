@@ -7,8 +7,8 @@ import streamlit as st
 import pandas as pd
 import ast
 
-# openai.api_key = "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"
-openai.api_key = "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"
+# openai.api_key = "sk-"
+openai.api_key = "sk-"
 
 
 
